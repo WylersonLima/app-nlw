@@ -56,5 +56,10 @@ uma lista que contém qualquer tipo de dado
 - [x] executar
 - [x] arrow function/ named function
 
-## Estrutura de repetição
+# Estrutura de repetição
+
 - [x] while
+
+# Condicionais
+
+- [] switch
