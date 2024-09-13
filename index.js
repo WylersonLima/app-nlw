@@ -1,4 +1,5 @@
 function start() {
+    
     while(true){
         let opcao = "sair"
         switch(opcao){
