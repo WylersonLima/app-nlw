@@ -38,12 +38,14 @@ Como um lego, você irá utilizar peças para criar algoritmos, para resolver pr
 - [x] Operadores de atribuição de valor
 - [x] Operador de concatenação
 - [x] Operadores de comparação: == != < > <= >=
+- [x] Spread operator: ...
 
 ## Estruturas de dados:
 
 ### Arrays:
 
-uma lista que contém qualquer tipo de dado
+- [x] uma lista que contém qualquer tipo de dado
+- [x] Métodos de arrays: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 ### Objetos:
 
